@@ -1,0 +1,23 @@
+{
+  "name": "als-dd-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mtheunissen82/als-dd-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mtheunissen82/als-dd-test/issues"
+  },
+  "homepage": "https://github.com/mtheunissen82/als-dd-test#readme",
+  "dependencies": {
+    "dd-trace": "^2.8.0",
+    "fastify": "^3.29.0"
+  }
+}
